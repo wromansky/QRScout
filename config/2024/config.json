@@ -131,43 +131,6 @@
           "code": "trap"
         } 
       ]
-    },
-    {
-      "name": "Penalties",
-      "fields": [
-        {
-         "title": "Fouls",
-          "code": "foul",
-          "type": "counter",
-          "defaultValue": 0,
-          "min": 0,
-          "required": false
-        },
-        {
-          "title": "Tech Fouls",
-          "code": "techfoul",
-          "type": "counter",
-          "defaultValue": 0,
-          "min": 0,
-          "required": false
-          },
-        {
-          "code": "yc",
-          "title": "Yellow Card",
-          "type": "counter",
-          "defaultValue": 0,
-          "min": 0,
-          "required": false
-          },
-       {
-          "code": "rc",
-          "title": "Red Card",
-          "type": "counter",
-          "defaultValue": 0,
-          "min": 0,
-          "required": false
-          }
+    }
          ]
         }
-      ]
-    }
